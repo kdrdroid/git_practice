@@ -10,6 +10,6 @@ int main(void)
 
     }
     else
-       printf("n is not between 1 and 10\n");
+       printf("n is not (changes) between 1 and 10\n");
     
 }
