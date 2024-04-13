@@ -1,8 +1,6 @@
 how a u
 how is home
 u  are a good boy!
-<<<<<<< HEAD
 i like akalo!
-=======
 am tall!
->>>>>>> addtext
+
