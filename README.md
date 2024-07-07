@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 it now includes steps of github
 practice using pull
+
+practice push
