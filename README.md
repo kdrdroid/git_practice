@@ -8,3 +8,7 @@ it now includes steps of github
 practice using pull
 
 practice push
+
+pull a branch
+
+push a branch
